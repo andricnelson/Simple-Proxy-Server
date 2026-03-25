@@ -6,8 +6,6 @@ from datetime import datetime
 import sys
 from collections import OrderedDict
 
-# Andric Nelson z5478729
-
 # Proxy server settings
 HOST = "0.0.0.0"
 BUFFER_SIZE = 4096
